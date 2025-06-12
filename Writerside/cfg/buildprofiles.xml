@@ -4,7 +4,22 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables></variables>
-    <build-profile instance="2">
+    <build-profile instance="Notes">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+    <build-profile instance="Notes">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+    <build-profile instance="n">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+    <build-profile instance="n">
         <variables>
             <noindex-content>true</noindex-content>
         </variables>

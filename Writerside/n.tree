@@ -2,3 +2,9 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
+<instance-profile id="n"
+                 name="Notes"
+                 start-page="notes.md">
+
+    <toc-element topic="notes.md"/>
+</instance-profile>
